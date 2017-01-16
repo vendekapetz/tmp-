@@ -1,0 +1,10 @@
+https://github.com/vendekapetz/tmp-.git
+
+echo "# tmp-" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/vendekapetz/tmp-.git
+git push -u origin master
+
+
